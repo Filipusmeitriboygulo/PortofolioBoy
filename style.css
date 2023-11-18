@@ -1,0 +1,9 @@
+.jumbotron {
+    background-color: #e2edff;
+}
+.jumbotron.about {
+    background-color: #f3f4f5;
+}
+#Projects {
+    background-color: #e2edff;
+}
